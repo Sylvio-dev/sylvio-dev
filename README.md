@@ -25,5 +25,6 @@
    <a href="https://instagram.com/sylvio.miguel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:sylviomiguel@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- 
+ ![snake gif](https://github.com/sylvio-dev/sylvio-dev/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
